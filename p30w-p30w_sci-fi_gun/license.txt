@@ -1,0 +1,11 @@
+Model Information:
+* title:	P30W-P30W Sci-Fi Gun
+* source:	https://sketchfab.com/3d-models/p30w-p30w-sci-fi-gun-e86c0c5731e44b9a94cfd30b999ca11d
+* author:	JuanAntonioCGI (https://sketchfab.com/maxguardior)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "P30W-P30W Sci-Fi Gun" (https://sketchfab.com/3d-models/p30w-p30w-sci-fi-gun-e86c0c5731e44b9a94cfd30b999ca11d) by JuanAntonioCGI (https://sketchfab.com/maxguardior) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
