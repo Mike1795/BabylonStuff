@@ -1,0 +1,11 @@
+Model Information:
+* title:	Horror From The Sky
+* source:	https://sketchfab.com/3d-models/horror-from-the-sky-47f3cfc00e9043599cf4c28d9af8098b
+* author:	Gustav_Johansson00 (https://sketchfab.com/Gustav_Johansson00)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Horror From The Sky" (https://sketchfab.com/3d-models/horror-from-the-sky-47f3cfc00e9043599cf4c28d9af8098b) by Gustav_Johansson00 (https://sketchfab.com/Gustav_Johansson00) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
