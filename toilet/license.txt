@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toilet
+* source:	https://sketchfab.com/3d-models/toilet-868beb5a0e6840d7a1d647a42a5e5a8c
+* author:	Kevin Johnson / Sushi Burgerrr (https://sketchfab.com/Pittree)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toilet" (https://sketchfab.com/3d-models/toilet-868beb5a0e6840d7a1d647a42a5e5a8c) by Kevin Johnson / Sushi Burgerrr (https://sketchfab.com/Pittree) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
