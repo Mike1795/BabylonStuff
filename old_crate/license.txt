@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old crate
+* source:	https://sketchfab.com/3d-models/old-crate-65be3c894ac640768ee8c6743e079c6e
+* author:	Marek Picheta (https://sketchfab.com/imarcos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old crate" (https://sketchfab.com/3d-models/old-crate-65be3c894ac640768ee8c6743e079c6e) by Marek Picheta (https://sketchfab.com/imarcos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

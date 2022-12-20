@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sacrificial Altar
+* source:	https://sketchfab.com/3d-models/sacrificial-altar-2044bb250c864c76897949382062f865
+* author:	Jochon (https://sketchfab.com/jochon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sacrificial Altar" (https://sketchfab.com/3d-models/sacrificial-altar-2044bb250c864c76897949382062f865) by Jochon (https://sketchfab.com/jochon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
